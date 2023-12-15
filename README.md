@@ -11,3 +11,6 @@ https://drive.google.com/file/d/1AMGjTnYXA47rkB2skcZ1HMl9pq-007UQ/view?usp=shari
 
 A workflow of our project is shown as below which may be helpful when you check the codes.
 ![image](workflow.png)
+
+Here we choose two different type of predictor( Neural Networks, Variational Autoencoder), you can run different code chunk to test these two different predictors.
+![image](VAE.png)
