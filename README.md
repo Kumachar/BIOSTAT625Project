@@ -8,4 +8,4 @@ the CAFA5 competation provided large scale and real protein sequences for traini
 
 Due to the restriction of storage, this project only contains the core project files for embedding and prediction. You can download the dataset files use the following links 
 
-!image(workflow.png)
+![image](workflow.png)
